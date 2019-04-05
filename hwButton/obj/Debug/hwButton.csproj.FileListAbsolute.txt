@@ -1,0 +1,7 @@
+C:\Users\Shipa\source\repos\hwButton\hwButton\obj\Debug\hwButton.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\hwButton\hwButton\obj\Debug\hwButton.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\hwButton\hwButton\bin\Debug\hwButton.exe.config
+C:\Users\Shipa\source\repos\hwButton\hwButton\bin\Debug\hwButton.exe
+C:\Users\Shipa\source\repos\hwButton\hwButton\bin\Debug\hwButton.pdb
+C:\Users\Shipa\source\repos\hwButton\hwButton\obj\Debug\hwButton.exe
+C:\Users\Shipa\source\repos\hwButton\hwButton\obj\Debug\hwButton.pdb
